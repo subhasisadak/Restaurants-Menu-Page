@@ -669,6 +669,7 @@ footer{
     .options{
         flex-wrap: nowrap;
         overflow-x: scroll;
+        gap: 6vw;
         /* overflow-y: hidden; */
         /* height: 30px; */
         justify-content: start;
