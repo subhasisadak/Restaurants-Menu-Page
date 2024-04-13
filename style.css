@@ -631,6 +631,9 @@ footer{
         /* display: none; */
 
     }
+    .options{
+        gap: 6vw;
+    }
 }
 
 /* for large mobile */
