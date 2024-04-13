@@ -632,7 +632,7 @@ footer{
 
     }
     .options{
-        gap: 6vw;
+        gap: 4vw;
     }
 }
 
@@ -672,7 +672,7 @@ footer{
     .options{
         flex-wrap: nowrap;
         overflow-x: scroll;
-        gap: 6vw;
+        gap: 4vw;
         /* overflow-y: hidden; */
         /* height: 30px; */
         justify-content: start;
